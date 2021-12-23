@@ -8,3 +8,10 @@ This is a web application made as part of Codecademy's Full-stack developer cour
 * JavaScript
 * Html
 * CSS
+
+## Key Concepts I Learned
+Some key concepts I learned while completing this project were:
+  * Display React components with array data by using .map()
+  * Work with React Forms
+  * Pass props from a parent component
+  * Update a parent component's prop from a child component
